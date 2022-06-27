@@ -1,8 +1,8 @@
 module FlavellConstants
 include("antsun_data.jl")
-export σ_vel,
-	σ_vT,
-	σ_θh,
-	σ_pumping
+export v_STD,
+    vT_STD,
+    θh_STD,
+	P_STD
 
 end # module
